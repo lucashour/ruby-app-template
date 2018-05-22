@@ -1,0 +1,3 @@
+require './dependencies'
+
+MyAwesomeClass.call
